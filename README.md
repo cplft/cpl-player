@@ -1,2 +1,2 @@
-# cpl_player
+# cpl-player
 HTML5 Video player
